@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Associate SDE at <a href='https://aimver.com'>Aimver Technologies</a>.</h1>
+  <h1 align="center">Associate Software Engineer at <a href='https://aimver.com'>Aimver Technologies</a>.</h1>
 </p>
 
 #### Real-time Coding Data
